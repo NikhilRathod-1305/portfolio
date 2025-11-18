@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="Tic Tac Toe Game"
               description="Interactive Tic Tac Toe game built with React.js featuring a clean UI, player turn indicators, win detection logic, and game reset functionality. Demonstrates component state management and conditional rendering."
-              ghLink="https://github.com/NikhilRathod-1305"
+              ghLink="https://github.com/NikhilRathod-1305/tic-tac-toe-game"
               demoLink="https://tic-tac-toe-game-tawny-chi.vercel.app/"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="The Almost Final Countdown"
               description="A countdown timer game built with React featuring multiple difficulty levels, real-time countdown, score tracking, and responsive design. Implements React hooks for state management and timer functionality."
-              ghLink="https://github.com/NikhilRathod-1305"
+              ghLink="https://github.com/NikhilRathod-1305/final-countdown-game"
               demoLink="https://the-almost-final-countdown-game-zeta.vercel.app/"
             />
           </Col>
@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="Investment Calculator"
               description="Financial calculator application built with React that computes investment returns over time. Features dynamic calculations, input validation, formatted number display, and responsive design for easy financial planning."
-              ghLink="https://github.com/NikhilRathod-1305"
+              ghLink="https://github.com/NikhilRathod-1305/investment-calculator"
               demoLink="https://investment-project-eight.vercel.app/"              
             />
           </Col>
