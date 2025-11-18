@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Nikhil Khemsingh Rathod </span>
-            from <span className="purple"> Pune, India.</span>
+            from <span className="purple"> Belagavi, India.</span>
             <br />
             I am currently working as an Associate Software Developer at Doshaheen Solution Pvt Ltd.
             <br />
